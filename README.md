@@ -1,1 +1,1 @@
-# dct8-links
+# dct8-tradingview
